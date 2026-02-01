@@ -244,9 +244,9 @@ UI enhancement using Tailwind or Material UI
 
 GitHub Repository: (Add link)
 
-Backend API URL: (Render deployment)
+Backend API URL: https://etoes-backend.onrender.com/api
 
-Frontend URL: (Netlify deployment)
+Frontend URL: https://legendary-griffin-fc0a01.netlify.app/
 
 🙌 Conclusion
 
