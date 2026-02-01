@@ -242,7 +242,7 @@ UI enhancement using Tailwind or Material UI
 
 📬 Submission Details
 
-GitHub Repository: (Add link)
+GitHub Repository: (https://github.com/AppamAkhil/etoes-Restaurant-Admin-Dashboard.git)
 
 Backend API URL: https://etoes-backend.onrender.com/api
 
