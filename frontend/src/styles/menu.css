@@ -1,0 +1,32 @@
+.menu-container {
+  padding: 20px;
+}
+
+.search {
+  padding: 10px;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.menu-card {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.available {
+  background: green;
+  color: white;
+}
+
+.unavailable {
+  background: red;
+  color: white;
+}
